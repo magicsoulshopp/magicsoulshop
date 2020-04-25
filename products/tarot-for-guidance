@@ -105,7 +105,7 @@ Shopify.theme.style = {"id":null,"handle":null};</script>
 <script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
 <script>window.ShopifyPay = window.ShopifyPay || {};
 window.ShopifyPay.apiHost = "pay.shopify.com";</script>
-<script id="__st">var __st={"a":26457669687,"offset":28800,"reqid":"3995e9eb-71d9-443b-89fb-4a15e373b88d","pageurl":"magic-soup-for-the-soul.myshopify.com\/products\/tarot-for-guidance","u":"e2ce862961f8","p":"product","rtyp":"product","rid":4501021950007};</script>
+<script id="__st">var __st={"a":26457669687,"offset":28800,"reqid":"bb21f344-0744-438a-9bac-fabf77ad9f90","pageurl":"magic-soup-for-the-soul.myshopify.com\/products\/tarot-for-guidance","t":"prospect","u":"67e254e62475","p":"product","rtyp":"product","rid":4501021950007};</script>
 <script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
 <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
 window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
@@ -541,8 +541,8 @@ for (var attr in meta) {
 
           <div class="header-bar__module">
             <a href="/cart" class="cart-page-link">
-              Cart
-              <span class="cart-count header-bar__cart-count hidden-count">0</span>
+              Cart:
+              <span class="cart-count header-bar__cart-count">1</span>
             </a>
           </div>
 
@@ -587,7 +587,7 @@ for (var attr in meta) {
       
       <a href="/cart" class="cart-page-link mobile-cart-page-link">
         <span class="icon icon-cart header-bar__cart-icon" aria-hidden="true"></span>
-        Cart <span class="cart-count hidden-count">0</span>
+        Cart <span class="cart-count">1</span>
       </a>
     </div>
     <nav role="navigation">
