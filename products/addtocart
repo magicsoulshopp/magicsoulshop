@@ -99,7 +99,7 @@ Shopify.theme.style = {"id":null,"handle":null};</script>
 <script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
 <script>window.ShopifyPay = window.ShopifyPay || {};
 window.ShopifyPay.apiHost = "pay.shopify.com";</script>
-<script id="__st">var __st={"a":26457669687,"offset":28800,"reqid":"91c79523-cc44-4354-bfcc-bd220ed316de","pageurl":"magic-soup-for-the-soul.myshopify.com\/cart","t":"prospect","u":"89e9b7297a25"};</script>
+<script id="__st">var __st={"a":26457669687,"offset":28800,"reqid":"813a3229-0705-42ef-89fd-5e427d9e720c","pageurl":"magic-soup-for-the-soul.myshopify.com\/cart","t":"prospect","u":"54f9a04c4210"};</script>
 <script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
 <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
 window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
@@ -179,7 +179,7 @@ for (var attr in meta) {
     first.parentNode.insertBefore(script, first);
   };
   trekkie.load(
-    {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":26457669687,"isMerchantRequest":null,"themeId":81697931319,"themeCityHash":"2897899894477614034","contentLanguage":"en","currency":"SGD"},"isServerSideCookieWritingEnabled":false},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":1},"Facebook Pixel":{"pixelIds":["1057516877937759"],"agent":"plshopify1.2"},"Session Attribution":{}}
+    {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":26457669687,"isMerchantRequest":null,"themeId":81697931319,"themeCityHash":"2897899894477614034","contentLanguage":"en","currency":"SGD"},"isServerSideCookieWritingEnabled":false},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":1},"Session Attribution":{}}
   );
 
   var loaded = false;
