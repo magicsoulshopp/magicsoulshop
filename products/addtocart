@@ -38,7 +38,7 @@
 
 
   <!-- Helpers ================================================== -->
-  <link rel="canonical" href="https://magic-soup-for-the-soul.myshopify.com/cart">
+  <link rel="canonical" href="https://magicsoulshopp.github.io/magicsoulshop/products/addtocart">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="theme-color" content="#d77e6a">
 
@@ -99,7 +99,7 @@ Shopify.theme.style = {"id":null,"handle":null};</script>
 <script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
 <script>window.ShopifyPay = window.ShopifyPay || {};
 window.ShopifyPay.apiHost = "pay.shopify.com";</script>
-<script id="__st">var __st={"a":26457669687,"offset":28800,"reqid":"813a3229-0705-42ef-89fd-5e427d9e720c","pageurl":"magic-soup-for-the-soul.myshopify.com\/cart","t":"prospect","u":"54f9a04c4210"};</script>
+<script id="__st">var __st={"a":26457669687,"offset":28800,"reqid":"96b99acd-6bcd-4e20-8463-00524ee97a95","pageurl":"magic-soup-for-the-soul.myshopify.com\/cart","t":"prospect","u":"47031eef19e0"};</script>
 <script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
 <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
 window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
@@ -459,7 +459,7 @@ for (var attr in meta) {
           <div class="header-bar__module">
             <a href="/cart" class="cart-page-link">
               Cart:
-              <span class="cart-count header-bar__cart-count">2</span>
+              <span class="cart-count header-bar__cart-count">1</span>
             </a>
           </div>
 
@@ -504,7 +504,7 @@ for (var attr in meta) {
       
       <a href="/cart" class="cart-page-link mobile-cart-page-link">
         <span class="icon icon-cart header-bar__cart-icon" aria-hidden="true"></span>
-        Cart <span class="cart-count">2</span>
+        Cart <span class="cart-count">1</span>
       </a>
     </div>
     <nav role="navigation">
@@ -740,11 +740,11 @@ for (var attr in meta) {
 
                 <div class="grid__item one-quarter one-half medium-down--one-third text-center">
                   <label for="updates_31828657111095:6969a97718af26c2022f49ff284f4226" class="cart__mini-labels">Quantity</label>
-                  <input type="number" class="cart__quantity-selector" name="updates[]" id="updates_31828657111095:6969a97718af26c2022f49ff284f4226" value="2" min="0" aria-label="Quantity">
+                  <input type="number" class="cart__quantity-selector" name="updates[]" id="updates_31828657111095:6969a97718af26c2022f49ff284f4226" value="1" min="0" aria-label="Quantity">
                 </div>
 
                 <div class="grid__item one-quarter one-half medium-down--one-third text-right">
-                  <span class="cart__mini-labels">Total</span><span class="h5">$50.00</span></div>
+                  <span class="cart__mini-labels">Total</span><span class="h5">$25.00</span></div>
 
                 <div class="grid__item text-center post-large--hide"></div>
               </div>
@@ -760,7 +760,7 @@ for (var attr in meta) {
           
           <div class="grid__item text-right">
             <p class="cart__subtotal"><span class="cart__subtotal-title">Subtotal</span>
-              <span class="h5 cart__subtotal-price">$50.00</span>
+              <span class="h5 cart__subtotal-price">$25.00</span>
             </p><p class="cart__policies"><em>Taxes and shipping calculated at checkout
 </em></p>
 
